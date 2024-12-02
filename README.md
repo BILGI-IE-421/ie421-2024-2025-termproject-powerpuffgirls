@@ -15,6 +15,7 @@ Traffic is one of the most important urbanization problems. The use of the rail 
 Over time, countries have developed various methods to solve the traffic problem. Rail lines, public transportation, smart traffic lights, and congestion charge to city centers are some of the examples. To determine the success of these methods, a city-based examination will be conducted first. By analyzing the population density and traffic index, cities with high population density but low traffic density will be determined. Afterwards, the factors that improve the traffic density of these cities will be analyzed. Finally, the applicability and application result of these methods in cities with poor traffic management will be estimated. 
 
 Website GitHub Repository -> https://github.com/sgundogd/PowerPuffGirls_Website
+
 Website link -> https://sgundogd.github.io/PowerPuffGirls_Website/
 
 Sevgi Gündoğdu		120203034
