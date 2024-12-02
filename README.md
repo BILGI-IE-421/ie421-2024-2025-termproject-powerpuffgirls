@@ -19,5 +19,7 @@ Website GitHub Repository -> https://github.com/sgundogd/PowerPuffGirls_Website
 Website link -> https://sgundogd.github.io/PowerPuffGirls_Website/
 
 Sevgi Gündoğdu		120203034
+
 Burcu Ağu			    116203010
+
 Özge Sıla Çakmak	121203055
